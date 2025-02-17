@@ -1,9 +1,9 @@
 # Welcome to the team  GP-Alternativweltgeschichten 🙌
 
-## 📌 Project Description
+## 📌 Projektbeschreibung
 Im Rahmen des Projektes wird ein interaktives System mit einem Museum entwickelt, welches die Entwicklung und Visualisierung alternativer Weltgeschichten unterstützt. Das System basiert auf einem topografischen Modell der Stadt, auf das verschiedene Karten projiziert werden können. Die Verwendung von Interaktion (z. B. Stift, Radiergummis) ermöglicht die Visualisierung spezifischer Aspekte der konkreten Stadtlandschaft, die vom Benutzer nach eigenem Ermessen veränderbar ist. Durch den Einsatz generativer KI (künstliche Intelligenz) können die projizierten Bilder auf Grundlage der Interaktionen (z. B. Löschen der Hauptstraße modifiziert werden. Die Bürger der Stadt sind in der Lage, verschiedene alternative Weltgeschichten zu entwickeln.
 
-## 📖 Table of Contents
+## 📖 Inhalt
 - [Design Challenge](#✍🏼-design-challenge)
 - [Projektziele und Vision](#📅-projektziele-und-vision)
 - [Technologie-Stack](#🚀-technologie-stack)
